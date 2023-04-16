@@ -1,3 +1,5 @@
+![elixir](https://dg8krxphbh767.cloudfront.net/tracks/elixir.svg)
+
 # exercism_elixir
 Exploring the Elixir exercises on Exercism
 
