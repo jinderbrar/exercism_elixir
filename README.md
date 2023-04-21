@@ -52,3 +52,6 @@ Learn about charlists and the case conditional expression by sanitizing username
 
 - [Name Badge](/lib/name_badge.ex)
 Learn about nil and the if conditional expression by printing name badges for factory employees.
+
+- [Leap](/lib/year.ex)
+Given a year, report if it is a leap year.
