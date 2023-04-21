@@ -43,3 +43,12 @@ Learn about the basics of Elixir by following a lasagna recipe.
 
 - [High Score](/lib/high_score.ex)
 Learn about maps by keeping track of the high scores in your local arcade hall.
+
+- [City Office](/lib/form.ex)
+Learn about writing documentation and typespecs by getting your code ready for the arrival of a new colleague at the city office.
+
+- [German Sysadmin](/lib/username.ex)
+Learn about charlists and the case conditional expression by sanitizing usernames of employees in a German company.
+
+- [Name Badge](/lib/name_badge.ex)
+Learn about nil and the if conditional expression by printing name badges for factory employees.
