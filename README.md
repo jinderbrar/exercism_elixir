@@ -55,3 +55,6 @@ Learn about nil and the if conditional expression by printing name badges for fa
 
 - [Leap](/lib/year.ex)
 Given a year, report if it is a leap year.
+
+- [RPG Character Sheet](/lib/rpg_character_sheet.ex)
+Learn about IO (input/output) by guiding your friends through the character creation process for your pen-and-paper role-playing game.
