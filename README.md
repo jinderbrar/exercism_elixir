@@ -58,3 +58,9 @@ Given a year, report if it is a leap year.
 
 - [RPG Character Sheet](/lib/rpg_character_sheet.ex)
 Learn about IO (input/output) by guiding your friends through the character creation process for your pen-and-paper role-playing game.
+
+- [Rational Numbers](/lib/rational_numbers.ex)
+Implement rational numbers.
+
+- [Take-A-Number](/lib/take_a_number.ex)
+Learn about processes and process identifiers by writing an embedded system for a Take-A-Number machine.
