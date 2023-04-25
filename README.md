@@ -64,3 +64,9 @@ Implement rational numbers.
 
 - [Take-A-Number](/lib/take_a_number.ex)
 Learn about processes and process identifiers by writing an embedded system for a Take-A-Number machine.
+
+- [Basketball Website](/lib/basketball_website.ex)
+Learn about Access Behaviour by helping extract deeply nested data for the basketball team's website.
+
+- [Wine Cellar](/lib/wine_cellar.ex)
+Learn about keyword lists by providing wine suggestions to the customers in your restaurant.
