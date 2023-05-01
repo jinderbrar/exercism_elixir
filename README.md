@@ -73,3 +73,12 @@ Learn about keyword lists by providing wine suggestions to the customers in your
 
 - [Remote Control Car](/lib/remote_control_car.ex)
 Learn about structs by playing around with a remote controlled car.
+
+- [RPN Calculator](/lib/rpn_calculator.ex)
+Learn about errors and rescuing them by working on an experimental Reverse Polish Notation calculator.
+
+- [Boutique Inventory](/lib/boutique_inventory.ex)
+Learn about the Enum module by preparing your fashion boutique for the big annu
+
+- [Lucas Numbers](/lib/lucas_numbers.ex)
+Learn about streams by generating the Lucas number sequence.
