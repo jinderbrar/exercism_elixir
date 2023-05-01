@@ -70,3 +70,6 @@ Learn about Access Behaviour by helping extract deeply nested data for the baske
 
 - [Wine Cellar](/lib/wine_cellar.ex)
 Learn about keyword lists by providing wine suggestions to the customers in your restaurant.
+
+- [Remote Control Car](/lib/remote_control_car.ex)
+Learn about structs by playing around with a remote controlled car.
