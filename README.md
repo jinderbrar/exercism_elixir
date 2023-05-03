@@ -85,3 +85,6 @@ Learn about streams by generating the Lucas number sequence.
 
 - [Paint By Number](/lib/paint_by_number.ex)
 Learn about bitstrings by creating binary files with pictures for a paint-by-number app.
+
+- [DNA Encoding](/lib/dna.ex)
+Learn about bitstrings and tail call recursion by encoding DNA sequences as binary data.
