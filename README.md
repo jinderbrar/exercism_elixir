@@ -82,3 +82,6 @@ Learn about the Enum module by preparing your fashion boutique for the big annu
 
 - [Lucas Numbers](/lib/lucas_numbers.ex)
 Learn about streams by generating the Lucas number sequence.
+
+- [Paint By Number](/lib/paint_by_number.ex)
+Learn about bitstrings by creating binary files with pictures for a paint-by-number app.
