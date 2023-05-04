@@ -88,3 +88,6 @@ Learn about bitstrings by creating binary files with pictures for a paint-by-num
 
 - [DNA Encoding](/lib/dna.ex)
 Learn about bitstrings and tail call recursion by encoding DNA sequences as binary data.
+
+- [Library Fees](/lib/library_fees.ex)
+Learn about dates and time by calculating late fees for the local library.
